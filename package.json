@@ -29,10 +29,10 @@
     "windows.security.credentials"
   ],
   "dependencies": {
-    "deasync": "file:deasync-0.1.10-custom.tgz",
-    "windows.devices.enumeration": "file:windows.devices.enumeration-0.1.0.tgz",
-    "windows.devices.wifi": "file:windows.devices.wifi-0.1.0.tgz",
-    "windows.networking.connectivity": "file:windows.networking.connectivity-0.1.0.tgz",
-    "windows.security.credentials": "file:windows.security.credentials-0.1.0.tgz"
+    "deasync": "file:./deasync-0.1.10-custom.tgz",
+    "windows.devices.enumeration": "file:./windows.devices.enumeration-0.1.0.tgz",
+    "windows.devices.wifi": "file:./windows.devices.wifi-0.1.0.tgz",
+    "windows.networking.connectivity": "file:./windows.networking.connectivity-0.1.0.tgz",
+    "windows.security.credentials": "file:./windows.security.credentials-0.1.0.tgz"
   }
 }
